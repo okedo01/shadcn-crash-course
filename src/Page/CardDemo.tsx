@@ -14,9 +14,9 @@ const CardDemo: React.FC = () => {
         <div>
             <Card>
                 <CardHeader>
-                    <CardTitle>Card Title</CardTitle>
-                    <CardDescription>Card Description</CardDescription>
-                    <CardAction>Card Action</CardAction>
+                    <CardTitle>Login to your Account</CardTitle>
+                    <CardDescription>Enter your email below to login to your account</CardDescription>
+                    <CardAction>Sign Up</CardAction>
                 </CardHeader>
                 <CardContent>
                     <p>Card Content</p>
