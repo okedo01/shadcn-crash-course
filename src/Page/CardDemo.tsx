@@ -8,6 +8,8 @@ import {
     CardHeader,
     CardTitle,
 } from "../components/ui/card"
+import InputField from './InputField'
+
 
 const CardDemo: React.FC = () => {
     return (
@@ -20,6 +22,7 @@ const CardDemo: React.FC = () => {
                 </CardHeader>
                 <CardContent>
                     <p>Card Content</p>
+                    <InputField />
                 </CardContent>
                 <CardFooter>
                     <p>Card Footer</p>
