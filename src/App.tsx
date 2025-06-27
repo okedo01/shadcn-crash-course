@@ -1,5 +1,5 @@
 import './App.css'
-import CardDemo from './Page/CardDemo'
+import { CardDemo } from './Page/CardDemo'
 
 function App() {
 
